@@ -17,8 +17,6 @@ Started my proper programming journey in 2022, been interested in software since
 - Trying to complete AoC
 - Building text-based game frameworks (Hasn't been updated for a while)
 
-## 🌸 Being a student at the blossoming age of AI
-There's no sugar coating it, the age of AI has sullied the credibility of college students across the globe. And for good reason, I've seen AI being used to float through college on a magic carpet of lies. <br> Personally, obviously I use AI as a tool but I try to limit it to only doing menial tasks. It's been my goal for the last year or so to find a way to increase my personal credibility by making personal projects and contributing to projects I find interesting. My code won't be the fanciest in the world, but at least it'll be original. And you can bet your ass I'll be a good developer one day, probably by the time I hit 60 or so..
 <!--
 **Aleks901/Aleks901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
