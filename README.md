@@ -4,11 +4,12 @@
 *"Jack of all trades master of none, that's how I'd describe myself. <br> I'm humble in my knowledge, possibly too much so.
 Started my proper programming journey in 2022, been interested in software since I was a kid. <br> The world of programming feels so vast it sometimes feels like the more I learn, the more I realize I know nothing.<br> But I'll keep trying in hopes that someday I can make clean and simple code that feels satisfying and rewarding to me."*
 
-## ⚡ Languages I've worked with
+## ⚡ Languages I've worked (Played) with
 - Python
 - Java
 - Typescript
 - C#
+- Zig
 
 ## ✨ Current ventures
 - Building Web applications.
